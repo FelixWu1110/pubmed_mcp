@@ -1,0 +1,9 @@
+fastmcp>=0.1.0
+requests>=2.28.1
+python-dotenv>=0.21.0
+urllib3>=1.26.0
+certifi>=2022.12.7
+charset-normalizer>=2.0.0
+idna>=3.4
+lxml>=4.9.0  # For XML processing
+tenacity>=8.0.0  # For retry mechanisms 
