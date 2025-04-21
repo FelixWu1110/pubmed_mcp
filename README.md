@@ -42,7 +42,7 @@ An advanced Model Content Protocol (MCP) server providing tools to search, analy
 
 ## API Tools
 
-### 1. find_medical_literature
+### 1. find_articles
 
 Search for medical literature matching specified topics and researchers.
 
